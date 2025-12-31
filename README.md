@@ -21,4 +21,4 @@ This project analyzes Netflix movies and TV shows data to understand content tre
 
 - Start year and end year of content availability
 
-- Dashboard interaction<a href="https://github.com/Umar2410/Data-Analysis_dashboard/blob/main/Screenshot%202025-12-31%20235628.png"></a>
+- Dashboard interaction<a href="https://github.com/Umar2410/Data-Analysis_dashboard/blob/main/Screenshot%202025-12-31%20235628.png">View Dashboard</a>
