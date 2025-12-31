@@ -7,18 +7,18 @@ This project analyzes Netflix movies and TV shows data to understand content tre
  
 ## Key Questions (KPIs)
 
--Total number of shows on Netflix
+- Total number of shows on Netflix
 
--Distribution of Movies vs TV Shows
+- Distribution of Movies vs TV Shows
 
--Most common content ratings
+- Most common content ratings
 
--Top genres by total shows
+- Top genres by total shows
 
--Content distribution by country
+- Content distribution by country
 
--Growth of shows over release years
+- Growth of shows over release years
 
--Start year and end year of content availability
+- Start year and end year of content availability
 
--Dashboard interaction<a href="
+- Dashboard interaction<a href="https://github.com/Umar2410/Data-Analysis_dashboard/blob/main/Screenshot%202025-12-31%20235628.png"></a>
