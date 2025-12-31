@@ -22,3 +22,13 @@ This project analyzes Netflix movies and TV shows data to understand content tre
 - Start year and end year of content availability
 
 - Dashboard interaction<a href="https://github.com/Umar2410/Data-Analysis_dashboard/blob/main/Screenshot%202025-12-31%20235628.png">View Dashboard</a>
+
+## Process
+
+- Imported Excel dataset into Power BI
+
+- Cleaned missing and inconsistent values
+
+- Created measures and visuals for KPIs
+
+- Designed interactive dashboard with filters and charts
