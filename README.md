@@ -37,3 +37,17 @@ This project analyzes Netflix movies and TV shows data to understand content tre
 
 <img width="1010" height="566" alt="Screenshot 2025-12-31 235628" src="https://github.com/user-attachments/assets/6ce0e628-be2b-499a-a7dd-97fe57a839fc" />
 
+## Project Insights
+
+- Movies dominate compared to TV shows
+
+- TV-MA and TV-14 are the most common ratings
+
+- Drama and International content are top genres
+
+- Content growth increased rapidly after 2010
+
+## Final Conclusion
+
+This dashboard helps understand Netflix content trends and viewer preferences. It is useful for beginners to practice data cleaning, visualization, and storytelling using Excel and Power BI
+
