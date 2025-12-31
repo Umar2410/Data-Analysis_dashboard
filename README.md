@@ -32,3 +32,8 @@ This project analyzes Netflix movies and TV shows data to understand content tre
 - Created measures and visuals for KPIs
 
 - Designed interactive dashboard with filters and charts
+
+## Dashboard
+
+<img width="1010" height="566" alt="Screenshot 2025-12-31 235628" src="https://github.com/user-attachments/assets/6ce0e628-be2b-499a-a7dd-97fe57a839fc" />
+
