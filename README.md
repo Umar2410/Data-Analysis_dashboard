@@ -2,7 +2,6 @@
 ## Project Objective
 
 This project analyzes Netflix movies and TV shows data to understand content trends, ratings, genres, countries, and release year growth using an interactive Power BI dashboard.
-## Dataset used
  ### Dataset used
 - Netflix dataset extracted from Excel
 - Source: Kaggle
